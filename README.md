@@ -1,15 +1,15 @@
 # Hi, I'm Ikram Dadoune 👋
 
-**M2 student in Algorithms & Modelling (AMIS) — UVSQ / Université Paris-Saclay**
+**M2 student in Algorithms & Modelling (AMIS) - UVSQ / Université Paris-Saclay**
 Optimization · Operations Research · Stochastic modelling · AI
 
-🔎 **Looking for a 6-month end-of-studies internship (R&D) starting February/March 2027** — operations research, optimization, stochastic modelling or applied AI, in Île-de-France.
+🔎 **Looking for a 6-month end-of-studies internship (R&D) starting February/March 2027** - operations research, optimization, stochastic modelling or applied AI, in Île-de-France.
 
 ---
 
 ### 🎓 Background
-- **Master AMIS (M1–M2), UVSQ / Paris-Saclay** — graph algorithms, randomized algorithms & OR, stochastic modelling, algorithmic game theory, complexity, neural networks
-- **4 validated years of engineering school in AI & Data Science** — ESI Sidi Bel Abbès (Algeria)
+- **Master AMIS (M1–M2), UVSQ / Paris-Saclay** - graph algorithms, randomized algorithms & OR, stochastic modelling, algorithmic game theory, complexity, neural networks
+- **4 validated years of engineering school in AI & Data Science** - ESI Sidi Bel Abbès (Algeria)
 
 ### 🛠️ Selected projects
 | Project | What it shows | Stack |
