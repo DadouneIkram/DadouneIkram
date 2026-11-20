@@ -1,32 +1,29 @@
-<h1 align="center">Hey, everyone! It's me, Ikram Dadoune</h1>
-<h3 align="center">A Frontend Dev & AI Enthusiast .</h3>
+# Hi, I'm Ikram Dadoune 👋
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/DadouneIkram/DadouneIkram/refs/heads/main/giphy.webp" alt="GIF" width="480" height="271">
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dadouneikram&label=Profile%20views&color=0e75b6&style=flat" alt="dadouneikram" /> </p>
+**M2 student in Algorithms & Modelling (AMIS) — UVSQ / Université Paris-Saclay**
+Optimization · Operations Research · Stochastic modelling · AI
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+🔎 **Looking for a 6-month end-of-studies internship (R&D) starting February/March 2027** — operations research, optimization, stochastic modelling or applied AI, in Île-de-France.
 
-- 🌱 I’m currently learning **the integration of AI models into web interfaces.**
+---
 
-- 🤝 I’m looking to collaborate on **building interactive and responsive frontend projects.**
+### 🎓 Background
+- **Master AMIS (M1–M2), UVSQ / Paris-Saclay** — graph algorithms, randomized algorithms & OR, stochastic modelling, algorithmic game theory, complexity, neural networks
+- **4 validated years of engineering school in AI & Data Science** — ESI Sidi Bel Abbès (Algeria)
 
-- 📫 How to reach me **dadouneikram10@gmail.com**
+### 🛠️ Selected projects
+| Project | What it shows | Stack |
+|---|---|---|
+| [mini-relational-algebra-engine](https://github.com/DadouneIkram/mini-relational-algebra-engine) | Relational algebra engine (project, select, join) on CSV files, query plans in JSON, functional evaluation | Java 17, Maven, JUnit 5, JaCoCo, Checkstyle |
+| [dns-simulator-java](https://github.com/DadouneIkram/dns-simulator-java) | Command-line DNS simulator built with the Command design pattern | Java 17, Maven, JUnit |
+| [caesar-cipher-java-tdd](https://github.com/DadouneIkram/caesar-cipher-java-tdd) | Test-driven development, factory methods, immutable class | Java 17, Maven, JUnit 5 |
+| [courses-recommender](https://github.com/DadouneIkram/courses-recommender) | Course recommendation with association-rule mining (Apriori, FP-Growth, Eclat) | Python, Streamlit |
+| [MLOPS-using-MLFlow-DagsHub](https://github.com/DadouneIkram/MLOPS-using-MLFlow-DagsHub) | Experiment tracking and model management | Python, MLflow, DagsHub |
 
-- 📄 Know about my experiences [https://github.com/DadouneIkram/DadouneIkram/blob/main/CV.pdf](https://github.com/DadouneIkram/DadouneIkram/blob/main/CV.pdf)
+### 🧰 Tools
+**Optimization & algorithms:** linear / stochastic optimization (PuLP, SciPy, PyPSA), graphs, simulation
+**AI & data:** Python, PyTorch, scikit-learn, pandas, reinforcement learning (DQN, Gymnasium), computer vision (YOLOv8), LLM agents (LangChain)
+**Software:** Java (Maven, JUnit), C++, TypeScript / React / Next.js, Git, Docker, Linux, LaTeX
 
-- ⚡ Fun fact: **Sports help me stay focused and motivated in my tech projects.**
-
-<h3 align="left">Connect with me in :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ikram-dadoune-1b5080233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram-dadoune-1b5080233" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadouneikram&show_icons=true&locale=en&layout=compact" alt="dadouneikram" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadouneikram&show_icons=true&locale=en" alt="dadouneikram" /></p>
-
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ikram-dadoune-1b5080233/) · dadouneikram10@gmail.com · Vélizy-Villacoublay / Paris area
